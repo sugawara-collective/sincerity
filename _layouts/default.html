@@ -3,14 +3,21 @@
   {% include head.html %}
 
   <body>
+    {% if page.home != true or page.title == 'Test' %}
+    {% include nav.html %}
+    {% endif %}
     {% include header.html %}
     <main>
-      <article>{{ content }}</article>
+      <article class="main-content container">{{ content }}</article>
       {% include footer.html %}
     </main>
   </body>
+  <script src="/assets/js/bulma.js"></script>
   <script src="/assets/js/sakura.js"></script>
   <script>
-    var sakura = new Sakura('header');
+    var sakura = new Sakura('#sakura-span');
   </script>
+  {% if page.pageScript %}
+  <script src="{{ page.pageScript }}"></script>
+  {% endif %}
 </html>

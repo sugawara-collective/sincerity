@@ -1,16 +1,33 @@
+function logEvent(e) {
+  console.log(e.originalEvent.animationName);
+}
+
+function petalRemove() {
+  // console.log();
+  $(this).remove();
+}
+
 const Sakura = function(selector, options) {
   if (typeof selector === 'undefined') {
     throw new Error('No selector present. Define an element.');
   }
 
   this.el = document.querySelector(selector);
+  this.i = 0;
+  this.petalID = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10']
+
+  this.petalOptions = {'soft':['petal-02', 'petal-03','petal-06','petal-08'],
+    'medium':['petal-01', 'petal-04','petal-05','petal-07', 'petal-09', 'petal-10']
+  }
+
+  // console.log(options);
 
   // Defaults for the option object, which gets extended below.
   const defaults = {
     className: 'sakura', // Classname of the petal. This corresponds with the css.
     fallSpeed: 1, // Speed factor in which the petal falls (higher is slower).
-    maxSize: 14, // The maximum size of the petal.
-    minSize: 10, // The minimum size of the petal.
+    maxSize: 20, // The maximum size of the petal.
+    minSize: 13, // The minimum size of the petal.
     delay: 300, // Delay between petals.
     colors: [
       {
@@ -92,15 +109,14 @@ const Sakura = function(selector, options) {
         'blow-medium-right',
       ],
       swayAnimations: [
-        'sway-0',
         'sway-1',
         'sway-2',
-        'sway-3',
+        'sway-3', 
         'sway-4',
         'sway-5',
         'sway-6',
         'sway-7',
-        'sway-8',
+        'sway-8'
       ],
     };
 
@@ -118,20 +134,31 @@ const Sakura = function(selector, options) {
       `${blowAnimation} ${(fallTime > 30 ? fallTime : 30) -
         20 +
         randomInt(0, 20)}s linear 0s infinite`,
-      `${swayAnimation} ${randomInt(2, 4)}s linear 0s infinite`,
+      `${swayAnimation} ${randomInt(2, 4)}s linear 0s infinite`
     ];
     const animations = animationsArr.join(', ');
 
     // Create petal and give it a random size.
     const petal = document.createElement('div');
+    petal.id = this.i;
+    this.i++;
     petal.classList.add(this.settings.className);
+
+    if(blowAnimation.indexOf('soft') != -1) {
+      var r = Math.floor(Math.random()*this.petalOptions.soft.length);
+      petal.classList.add(this.petalOptions.soft[r]);
+    } else {
+      var r = Math.floor(Math.random()*this.petalOptions.medium.length);
+      petal.classList.add(this.petalOptions.medium[r]);
+    }
+
+    
     const height = randomInt(this.settings.minSize, this.settings.maxSize);
     const width = height - Math.floor(randomInt(0, this.settings.minSize) / 3);
 
     // Get a random color.
     const color = randomArrayElem(this.settings.colors);
-
-    petal.style.background = `linear-gradient(${color.gradientColorDegree}deg, ${color.gradientColorStart}, ${color.gradientColorEnd})`;
+    // petal.style.background = `contain no-repeat url("/sakura petals/petals_01.svg");`;
     petal.style.webkitAnimation = animations;
     petal.style.animation = animations;
     petal.style.borderRadius = `${randomInt(
@@ -144,19 +171,10 @@ const Sakura = function(selector, options) {
     petal.style.marginTop = `${-(Math.floor(Math.random() * 20) + 15)}px`;
     petal.style.width = `${width}px`;
 
-    // Remove petals of which the animation ended.
-    PrefixedEvent(petal, 'AnimationEnd', () => {
-      if (!elementInViewport(petal)) {
-        petal.remove();
-      }
-    });
 
-    // Remove petals that float out of the viewport.
-    PrefixedEvent(petal, 'AnimationIteration', () => {
-      if (!elementInViewport(petal)) {
-        petal.remove();
-      }
-    });
+
+    // Remove petals of which the animation ended.
+    $(petal).on('animationend', petalRemove);
 
     // Add the petal to the target element.
     this.el.appendChild(petal);

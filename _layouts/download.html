@@ -1,0 +1,30 @@
+---
+layout: page
+---
+{{ content }}
+
+<h3>Platonic</h3>
+<div>
+  <input type="checkbox" id="fic1" name="fic1" value="Kunimi Akira is NOT a Boy">
+  <label for="fic1"> Kunimi Akira is NOT a Boy</label>
+</div>
+
+<h3>Romantic</h3>
+<div>
+  <input type="checkbox" id="fic2" name="fic2" value="The Game We Play">
+  <label for="fic2"> The Game We Play</label><br>
+  <input type="checkbox" id="fic3" name="fic3" value="Wishing on Dandelions">
+  <label for="fic3"> Wishing on Dandelions</label><br>
+  <input type="checkbox" id="fic4" name="fic4" value="Kss fr th Mmrs">
+  <label for="fic4"> Kss fr th Mmrs</label><br>
+  <input type="checkbox" id="fic5" name="fic5" value="Creatures of Habit">
+  <label for="fic5"> Creatures of Habit</label><br/>
+  <input type="checkbox" id="fic6" name="fic6" value="Just Make Him Blush">
+  <label for="fic6"> Just Make Him Blush</label>
+</div>
+
+<button onclick="downloadPDF()" class="button is-primary">Download</button>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.min.js" integrity="sha512-z8IYLHO8bTgFqj+yrPyIJnzBDf7DDhWwiEsk4sY+Oe6J2M+WQequeGS7qioI5vT6rXgVRb4K1UVQC5ER7MKzKQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://unpkg.com/@pdf-lib/fontkit@0.0.4"></script>
+<script src="/assets/js/download-zine.js"></script>

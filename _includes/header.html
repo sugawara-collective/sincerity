@@ -1,10 +1,16 @@
 {% if page.home %}
-<header class="full-header">
-  <h1 class="title is-1">The&nbsp; Sugawara&nbsp; Anthology</h1>
-  <p>A Digital Zine Coming Soon!</p>
+<header class="header full-header">
+  <span id="sakura-span"></span>
+  <div class="header-content">
+    <h1>The Sugawara Anthology</h1>
+    <p>A Digital Zine Coming Soon!</p>
+  </div>
 </header>
 {% else %}
-<header class="page-header">
-  <h1 class="title is-1">{{page.title}}</h1>
+<header class="header page-header">
+  <span id="sakura-span"></span>
+  <div class="page-title-container">
+    <h1>{{ page.title }}</h1>
+  </div>
 </header>
 {% endif %}

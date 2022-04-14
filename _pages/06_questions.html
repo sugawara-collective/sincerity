@@ -1,0 +1,47 @@
+---
+layout: page
+title: Questions
+permalink: /questions/
+order: 6
+pageScript: /assets/js/tabs.js
+---
+
+<p>The Sugawara zine is a free, open-to-all zine dedicated to the best senpai on Karasuno’s team, Sugawara Koushi from the anime/manga series Haikyuu.</p>
+
+<p>This will be an unofficial anthology publication filled with a mix of writing, art, and other formats—all in digital format.</p>
+
+<div id="tabs-with-content">
+  <div class="tabs">
+    <ul>
+      <li><a>FAQS</a></li>
+      <li><a>Other Answers</a></li>
+    </ul>
+  </div>
+  <div>
+    <section class="tab-content">
+      {% for faq in site.data.faqs %}
+      <p><strong>{{ faq.question }}</strong><br/>{{ faq.answer }}</p>
+      {% endfor %}
+      <p><strong>Any other questions? Ask us below!</strong> Our replies can be found under the "Other Answers" tab of this page.</p>
+    </section>
+    <section class="tab-content">
+      <p><strong>Didn't find your question?</strong> Go ahead and ask away!</p>
+    </section>
+  </div>
+</div>
+<div class="field">
+  <div class="control">
+    <input class="input" id="name" type="text" placeholder="Name (Optional)">
+  </div>
+</div>
+<div class="field">
+  <div class="control">
+    <textarea id="question" class="textarea" placeholder="Ask your question here!"></textarea>
+  </div>
+</div>
+<div class="field is-grouped">
+  <div class="control">
+    <button onclick="alert('not yet implemented sorry :/');" class="button is-primary">Ask!</button>
+  </div>
+</div>
+
