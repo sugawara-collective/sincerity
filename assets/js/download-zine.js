@@ -26,11 +26,12 @@ const createPageLinkAnnotation = (pdfDoc, pageRef, x, y, height, width) =>
         y, // upper right y coord
       ],
       /* Give the link a 2-unit-wide border, with sharp corners */
-      Border: [0, 0, 2],
+      Border: [0, 0, 0],
       /* Make the border color blue: rgb(0, 0, 1) */
-      C: [0, 0, 1],
+      C: '_undef_',
       /* Page to be visited when the link is clicked */
       Dest: [pageRef, 'XYZ', 0, 792, null],
+      // Linkcolor: '_undef_'
     }),
   );
 
