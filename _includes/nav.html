@@ -13,7 +13,7 @@
   <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-end">
       {% for pg in site.pages %} {% if pg.title == 'Test' %}
-      <a class="navbar-item" href="/test">Home</a>
+      <a class="navbar-item {% if pg.title == page.title %}current{% endif %}" href="/test">Home</a>
       {% elsif pg.title %}
       <a class="navbar-item {% if pg.title == page.title %}current{% endif %}" href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title }}</a>
       {% endif %} {% endfor %}
