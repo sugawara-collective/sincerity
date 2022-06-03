@@ -1,8 +1,10 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
+    {% unless page.home %}
     <a class="navbar-item" href="/">
       {{ site.title }}
     </a>
+    {% endunless %}
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
@@ -12,11 +14,11 @@
 
   <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-end">
-      {% for pg in site.pages %} {% if pg.title == 'Test' %}
+      {% for pg in site.pages %} {% unless pg.exclude %}{% if pg.title == 'Test' %}
       <a class="navbar-item {% if pg.title == page.title %}current{% endif %}" href="/test">Home</a>
       {% elsif pg.title %}
       <a class="navbar-item {% if pg.title == page.title %}current{% endif %}" href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title }}</a>
-      {% endif %} {% endfor %}
+      {% endif %} {% endunless %} {% endfor %}
     </div>
   </div>
 </nav>

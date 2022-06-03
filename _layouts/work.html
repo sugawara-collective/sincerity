@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include nav.html %}
+    <main>
+      <div class="work-header">
+        <h2>{{ page.title }}</h2>
+      </div>
+      <div class="work-content">
+        <article class="main-content container">
+          {{ content }}
+        </article>
+      </div>
+      {% include footer.html %}
+    </main>
+  </body>
+  <script src="/assets/js/bulma.js"></script>
+  <script src="/assets/js/sakura.js"></script>
+  {% if page.script %}
+  <script src="{{ page.script }}"></script>
+  {% endif %}
+</html>

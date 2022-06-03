@@ -1929,7 +1929,7 @@ fieldset[disabled] .button {
 .content h6 {
   color: #363636;
   font-weight: 600;
-  line-height: 1.125;
+  line-height: 1.2;
 }
 .content h1 {
   font-size: 2em;
@@ -2915,7 +2915,7 @@ a.tag:hover {
   color: #363636;
   font-size: 2rem;
   font-weight: 600;
-  line-height: 1.125;
+  line-height: 1.2;
 }
 .title strong {
   color: inherit;
