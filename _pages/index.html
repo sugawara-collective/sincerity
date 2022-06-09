@@ -1,0 +1,75 @@
+---
+permalink: /
+home: true
+order: 1
+exclude: true
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>
+    {{ site.title }}
+  </title>
+
+  <link
+    rel="canonical"
+    href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+  />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bad+Script&family=Homemade+Apple&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Mr+De+Haviland&display=swap" rel="stylesheet">
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css"> -->
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/home.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/sakura.css" | prepend: site.baseurl }}">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+</head>
+  <body>
+    
+    <main class="home-content">
+      <div class="left-side">
+        <div class="side-bar">
+          <span class="j-title">篤実</span>
+          <span class="socials">
+            <span class="i">
+              <a class="image" id="twt" href="mailto:sugawaradigizine@gmail.com"><img src="/assets/images/email.png"/></a>
+            </span>
+            <span class="i">
+              <a class="image" id="twt" href="https://twitter.com/sugawarazine" target="_blank"><img src="/assets/images/twitter.png"/></a>
+            </span>
+          </span>
+          <span class="j-suga">とくじつ</span>
+        </div>
+        <div class="sugawara-container">
+          <span class="note">COMING SOON...</span>
+        </div>
+      </div>
+      <div class="right-side" id="sakura-span">
+        <div class="title">
+          <h1>SINCERITY</h1>
+          <p>a sugawara anthology</p>
+        </div>
+        <div class="details">
+          <p><span class="flower-left">free digital zine</span><br/>
+            <span class="flower-right">open submission</span><br/>
+            <span class="flower-left">just for fun</span>
+          </p>
+        </div>
+      </div>
+    </main>
+  </body>
+  <script src="/assets/js/bulma.js"></script>
+  <script src="/assets/js/sakura.js"></script>
+  <script>
+    var sakura = new Sakura('#sakura-span');
+  </script>
+  {% if page.script %}
+  <script src="{{ page.script }}"></script>
+  {% endif %}
+</html>

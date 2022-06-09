@@ -39,7 +39,7 @@ Please take note of the following guidelines for your output:
 ### Guidelines for Writers
 
 Please take note of the following guidelines for your output:
-1. In addition to the traditional fics, we will also be accepting poems from writer contributors. Poems should be 100-400 words, while fics can be anywhere between 500-3500 words.
+1. In addition to the traditional fics, we will also be accepting poems from writer contributors. Poems should be 25-400 words, while fics can be anywhere between 500-3500 words.
 2. Both romantic and platonic ships are allowed.
 3. We welcome works set in the canonverse or in an alternate universe (AU).
 4. All works must fall strictly within the G to T ratings, following AO3 guidelines. (If you’re unsure, you can always ask our Mod Team. General rule, the work should not go past a soft make out.)

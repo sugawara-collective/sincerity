@@ -4,17 +4,14 @@
 
 .header {
   width: 100vw;
+  padding-left: 27%;
   min-height: 4rem;
   overflow: hidden;
   position: relative;
-}
 
-.page-header {
-  border: 1px solid lightgray;
-  .page-title-container {
-    max-width: 1024px;
-    margin: auto;
-    padding-left: .5rem;
+  h1 {
+    font-size: xxx-large;
+    color: #40291e;
   }
 }
 
@@ -33,7 +30,7 @@
 }
 
 .header-content h1 {
-  font-family: "Mr De Haviland";
+  font-family: 'Arima Madurai', sans-serif;
   font-weight: 100 !important;
   font-size: 5rem;
   margin: 0;
@@ -46,7 +43,7 @@
   margin: 0;
 }
 .navbar {
-  background: #fefefe;
+  background: transparent;
   min-height: 3.25rem;
   position: relative;
   z-index: 30;
@@ -100,6 +97,7 @@
 }
 .navbar-menu {
   display: none;
+  text-align: right;
   &.is-active {
     display: block;
   }
@@ -121,26 +119,63 @@
   }
 }
 .navbar-link.current, .navbar-item.current {
-  color: #fae691;
+  color: #afbbcb;
 
   &:hover {
     filter: brightness(.85);
   }
 }
 
+.page-main {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  grid-template-areas: "side content";
+}
+
+.main-content {
+  grid-area: content;
+  margin: 0 2em;
+}
+
 .footer {
-  background: #fefefe;
-  width: 100vw;
-  position: fixed;
+  grid-area: side;
   bottom: 0;
   padding: .5rem 1rem;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
+  align-items: center;
+
+  .side-bar {
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    div {
+      padding: 2em 1em;
+    }
+
+    .j-suga {
+      padding-bottom: 2em;
+    }
+
+    .socials {
+      width: 3.5rem;
+      padding: 0;
+      padding-left: .5rem;
+      padding-bottom: 1rem;
+
+      .icon a {
+        padding: .25em 0;
+      }
+    }
+  }
+
 }
 @media screen and (min-width: 769px) {
   .container {
-    max-width: 1024px;
-    margin: auto;
     padding: .5rem;
   }
   .page-title-container {
@@ -172,22 +207,33 @@
     display: flex;
     font-weight: 600;
   }
+
+  .footer .side-bar {
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+
+    .socials {
+      padding-bottom: 0;
+    }
+
+    .j-suga {
+      padding-bottom: 0;
+    }
+  }
 }
 .navbar-link, a.navbar-item {
   cursor: pointer;
 }
 
-.footer {
-  background: transparent;
-  width: 100vw;
-  position: fixed;
-  bottom: 0;
-  padding: .5rem 1rem;
-  display: flex;
-  justify-content: flex-end;
-}
+// .footer {
+//   background: transparent;
+//   bottom: 0;
+//   padding: .5rem 1rem;
+//   display: flex;
+// }
 
-.footer .icon {
+.socials .icon {
   width: 2.5rem;
   height: 2.5rem;
   &:hover {
@@ -198,7 +244,7 @@
 .social-icon {
   width: 100%;
   height: 100%;
-  filter: invert(85%) sepia(43%) saturate(373%) hue-rotate(355deg) brightness(102%) contrast(96%);
+  filter: invert(85%) sepia(14%) saturate(305%) hue-rotate(175deg) brightness(88%) contrast(83%);
 }
 
 .main-content {

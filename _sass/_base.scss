@@ -1,10 +1,10 @@
 $content-width: 800px;
 $main: #19ccaa;
-$font-style: 'Open Sans', sans-serif;
+$font-style: 'Alegreya', serif;
 $font-color: #262626;
 $link-color: #425469;
 $link-hover-color: $main;
-$heading-font: 'Muli', sans-serif;
+$heading-font: 'Arima Madurai', sans-serif;
 $heading-font-color: #425469;
 $light: #e7edf4;
 $header: #1d1425;
@@ -18,12 +18,23 @@ $header: #1d1425;
 }
 
 * {
-  font-family: Montserrat;
+  font-family: $font-style;
   box-sizing: border-box;
 }
 html {
-  background: #fefefe;
+  background: #fff;
+  background-image: url("/assets/images/shadow_blue_left.png");
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: 28% auto;
 }
+
+@media screen and (max-width: 948px) {
+  html {
+    background-size: 45% auto;
+  }
+}
+
 body {
   margin: 0;
 }
@@ -31,8 +42,16 @@ a {
   text-decoration: none;
 }
 
+.j-suga {
+    writing-mode: vertical-lr;
+    font-size: 5vh;
+    letter-spacing: .2em;
+    font-family: 'Noto Serif JP', serif;
+    color: #40291e;
+  }
+
 h1,h2,h3,h4,h5,h5 {
-  font-family: Merriweather;
+  font-family: $heading-font;
   color: #363636;
 }
 
@@ -63,7 +82,14 @@ h1,h2,h3,h4,h5,h5 {
 }
 
 .button.is-primary {
-  background-color: cornflowerblue;
+  background-color: #97a4b5;
+  border-color: transparent;
+  color: #fff;
+  transition: .5s all ease;
+}
+
+.button.is-primary:hover {
+  background-color: gray;
   border-color: transparent;
   color: #fff;
 }
@@ -127,12 +153,12 @@ h1,h2,h3,h4,h5,h5 {
   padding: 0.5em 1em;
   vertical-align: top;
   text-decoration: none;
-  font-family: Merriweather !important;
+  font-family: $font-style !important;
 }
 
 .tabs li.is-active a {
   border-bottom-color: #222;
-  color: #222;
+  color: #97a4b5;
   font-weight: 900;
 }
 
