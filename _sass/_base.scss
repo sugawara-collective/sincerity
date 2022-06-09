@@ -35,6 +35,10 @@ html {
   }
 }
 
+strong {
+  font-variation-settings: 'wght' 625;
+}
+
 body {
   margin: 0;
 }
@@ -160,6 +164,7 @@ h1,h2,h3,h4,h5,h5 {
   border-bottom-color: #222;
   color: #97a4b5;
   font-weight: 900;
+  font-variation-settings: 'wght' 725;
 }
 
 .input, .textarea {
