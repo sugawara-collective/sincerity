@@ -2,7 +2,8 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-@import 'fonts', 'base', 'layout', 'syntax-highlighting';
+@import 'fonts';
+@import 'base', 'layout', 'syntax-highlighting';
 
 li {
   margin-bottom: .25em;
