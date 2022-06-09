@@ -154,15 +154,15 @@
     align-items: center;
 
     div {
-      padding: 2em 1em;
+      padding: 1em 1em;
     }
 
     .j-suga {
-      padding-bottom: 2em;
+      padding-bottom: 1em;
     }
 
     .socials {
-      width: 3.5rem;
+      width: 2.5rem;
       padding: 0;
       padding-left: .5rem;
       padding-bottom: 1rem;
@@ -174,7 +174,7 @@
   }
 
 }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 769px) {
   .page-main {
     display: grid;
     grid-template-columns: 25% 75%;
@@ -222,6 +222,7 @@
     align-items: baseline;
 
     .socials {
+      width: 3rem;
       padding-bottom: 0;
     }
 
