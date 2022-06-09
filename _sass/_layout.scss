@@ -128,7 +128,7 @@
 
 .page-main {
   display: grid;
-  grid-template-columns: 25% 75%;
+  grid-template-columns: 10% 90%;
   grid-template-areas: "side content";
 }
 
@@ -174,6 +174,14 @@
   }
 
 }
+@media screen and (min-width: 1024px) {
+  .page-main {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    grid-template-areas: "side content";
+  }
+}
+
 @media screen and (min-width: 769px) {
   .container {
     padding: .5rem;
