@@ -133,6 +133,9 @@
 }
 
 @media screen and (max-width: 1024px) {
+  html {
+    background: #afbbcb;
+  }
   .right-side {
     width: 100vw;
     height: 100vh;
