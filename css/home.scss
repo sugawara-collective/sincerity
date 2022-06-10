@@ -6,6 +6,7 @@
   position: absolute;
   top: 0;
   bottom: 0;
+  height: -webkit-fill-available;
 }
 
 .left-side {
@@ -142,6 +143,7 @@
   .right-side {
     width: 100vw;
     height: 100vh;
+    height: -webkit-fill-available;
     top: 0;
     position: absolute;
   }
