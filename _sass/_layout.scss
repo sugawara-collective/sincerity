@@ -127,6 +127,11 @@
   }
 }
 
+.logo {
+    height: 2em !important;
+    width: auto;
+  }
+
 .page-main {
   display: grid;
   grid-template-columns: 10% 90%;
@@ -202,7 +207,7 @@
     margin-left: auto;
   }
   .navbar, .navbar-end, .navbar-menu, .navbar-start {
-    align-items: stretch;
+    align-items: flex-start;
     display: flex;
   }
   .navbar-item, .navbar-link {
@@ -211,6 +216,11 @@
     font-weight: 600;
     font-variation-settings: 'wght' 625;
   }
+
+  .logo {
+      height: 3em !important;
+      width: auto;
+    }
 
   .page-main {
     display: grid;
