@@ -1,6 +1,6 @@
 $content-width: 800px;
 $main: #19ccaa;
-$font-style: 'Alegreya', serif;
+$font-style: 'Open Sans', Helvetica, sans-serif;
 $font-color: #262626;
 $link-color: #425469;
 $link-hover-color: $main;
@@ -18,12 +18,14 @@ $header: #1d1425;
 }
 
 * {
-  font-family: $font-style;
   box-sizing: border-box;
+}
+main {
+  font-family: $font-style;
 }
 html {
   background: #fff;
-  background-image: url("/assets/images/shadow_blue_left.png");
+  background-image: url("/assets/images/shadow_1_left.png");
   background-position: top left;
   background-repeat: no-repeat;
   background-size: 28% auto;
@@ -127,6 +129,7 @@ h1,h2,h3,h4,h5,h5 {
   overflow: hidden;
   overflow-x: auto;
   white-space: nowrap;
+  font-family: "Alegreya", serif;
 }
 
 .tabs ul {
@@ -161,7 +164,7 @@ h1,h2,h3,h4,h5,h5 {
   padding: 0.5em 1em;
   vertical-align: top;
   text-decoration: none;
-  font-family: $font-style !important;
+  font-family: "Alegreya", serif !important;
 }
 
 .tabs li.is-active a {

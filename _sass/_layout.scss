@@ -48,6 +48,7 @@
   position: relative;
   z-index: 30;
   text-transform: uppercase;
+  font-family: "Alegreya", serif !important;
 }
 .navbar-burger {
   -moz-appearance: none;
@@ -138,9 +139,17 @@
   grid-template-areas: "side content";
 }
 
+.sugawara {
+  display: none;
+  position: fixed;
+  width: 29%;
+  bottom: 0;
+  right: 1%;
+}
+
 .main-content {
   grid-area: content;
-  margin: 0 2em;
+  margin: 0 1em;
 }
 
 .footer {
@@ -273,4 +282,16 @@
 
 .main-content {
   padding-bottom: 60px;
+}
+
+@media screen and (min-width: 769px) {
+  .page-main {
+    display: grid;
+    grid-template-columns: 20% 50% 30%;
+    grid-template-areas: "side content suga";
+  }
+  .sugawara {
+    display: block;
+    grid-area: suga;
+  }
 }

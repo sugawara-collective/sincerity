@@ -1,11 +1,18 @@
 @font-face {
   font-family: "Alegreya";
-  src: url("/assets/fonts/Alegreya/Alegreya-Italic-VariableFont_wght.ttf") format("truetype");
-  font-style: italic;
+  src: url("/assets/fonts/Alegreya/static/Alegreya-Regular.ttf") format("truetype");
+  font-weight: normal;
 }
+
 @font-face {
   font-family: "Alegreya";
-  src: url("/assets/fonts/Alegreya/Alegreya-VariableFont_wght.ttf") format("truetype");
+  src: url("/assets/fonts/Alegreya/static/Alegreya-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Della Respira";
+  src: url("/assets/fonts/DellaRespira-Regular.ttf") format("truetype");
 }
 
 @font-face {
@@ -83,4 +90,52 @@
   font-family: "Noto Serif JP";
   src: url("/assets/fonts/Noto_Serif_JP/NotoSerifJP-Light.otf") format("opentype");
   font-weight: 300;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/fonts/OpenSans/OpenSans-Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/fonts/OpenSans/OpenSans-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/fonts/OpenSans/OpenSans-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/fonts/OpenSans/OpenSans-Thin.ttf") format("truetype");
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/fonts/OpenSans/OpenSans-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/fonts/OpenSans/OpenSans-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/fonts/OpenSans/OpenSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/fonts/OpenSans/OpenSans-Black.ttf") format("truetype");
+  font-weight: 900;
 }
