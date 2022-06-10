@@ -174,11 +174,9 @@
   }
 
 }
-@media screen and (min-width: 769px) {
-  .page-main {
-    display: grid;
-    grid-template-columns: 25% 75%;
-    grid-template-areas: "side content";
+@media screen and (max-width: 769px) {
+  .side-bar {
+    align-items: unset;
   }
 }
 
@@ -215,6 +213,12 @@
     display: flex;
     font-weight: 600;
     font-variation-settings: 'wght' 625;
+  }
+
+  .page-main {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    grid-template-areas: "side content";
   }
 
   .footer .side-bar {
