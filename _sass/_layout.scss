@@ -153,10 +153,6 @@
     justify-content: center;
     align-items: unset;
 
-    div {
-      padding: 1em 1em;
-    }
-
     .j-suga {
       padding-bottom: 1em;
     }
@@ -234,6 +230,9 @@
     .j-suga {
       padding-bottom: 0;
     }
+  }
+  .side-bar div {
+    padding: 1em 1em;
   }
 }
 .navbar-link, a.navbar-item {
