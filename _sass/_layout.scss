@@ -284,6 +284,26 @@
   padding-bottom: 60px;
 }
 
+table {
+  border-collapse: collapse;
+  tr {
+    padding: .6em 0;
+    padding-right: 1em;
+    vertical-align: top;
+  }
+  tr:nth-child(1) {
+    background: #afbbcb;
+    font-weight: bold;
+  }
+  td {
+    width: 50%;
+  }
+  td:first-child {
+    width: 40%;
+    color: #40291e;
+  }
+}
+
 @media screen and (min-width: 769px) {
   .page-main {
     display: grid;

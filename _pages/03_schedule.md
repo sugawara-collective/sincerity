@@ -4,24 +4,18 @@ title: Schedule
 permalink: /schedule/
 order: 3
 ---
-_(i just made all this up)_ 
-
-Please note the following schedule is subject to changes.
+Sign-ups are not just for contributors, but also beta readers, cheerleaders, and supporters. Additionally, there will be additional rounds of sign-ups at each soft check-in Please note the following schedule is subject to changes.
 
 Current Phase: **Pre-Creation**
 
-| phase | | dates|
-|:------------------------|------|--------:|
-|Announcement & Website |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| **Jun 2** |
-|Interest Check | | **Jun 13 – Jul 13** |
-|Contributor Sign-Ups || **Jul 20 – Aug 22** |
-|Contributors Notified || **Aug 23** |
-|Pitches Due || Sep 2 |
-|Beta Reader Sign-Ups  || Sep 12 ­– Oct 2 |
-|Check-in #1  || Sep 22 |
-|Beta Reader Assignment || Oct 2 – Oct 12 |
-|Check-in #2  || Oct 22 |
-|Completed Draft Due ||  Nov 22 |
-|Final Piece Due   ||  Dec 2 |
-|Zine “Production”  ||   Dec 2 – Dec 21 |
-|Download Available  ||  Dec 22 |
+|**June 13** | Zine launch & announcement |
+|**Jun 20 - Jul 20** | All sign-ups|
+|**July 22** |Official welcome|
+|Jul 22–Jul 29  |Pitches submission|
+|August 22  | Soft check-in (suggested 25%)|
+|September 22   | Soft check-in (suggested 50%)|
+|October 22   | Soft check-in (suggested 75%) |
+|November 22 |  Final submissions due|
+|Nov 23 - Dec 21 | Zine production|
+|December 22  | Zine available for download |
+|February 22  | Creators can post works|

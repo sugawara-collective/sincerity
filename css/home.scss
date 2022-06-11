@@ -44,9 +44,11 @@
     align-items: center;
     flex-direction: column;
     justify-content: center;
+    width: 10vw;
 
     .i {
-      margin: .3em 15%;
+      margin: .3em auto;
+      width: calc(min(1.6em,8vw));
     }
   }
 }
@@ -62,7 +64,7 @@
   display: grid;
   grid-template-areas: "details"
                        "title";
-  grid-template-rows: 1fr 2fr;
+  grid-template-rows: 2fr 3fr;
   background: url(/assets/images/shadow_1.png) no-repeat top right;
   background-size: auto 55%;
 
@@ -94,7 +96,7 @@
 
 .sugawara-container {
   margin: 1em 1em 1em 0;
-  border: 0.55em solid rgb(248, 248, 247);
+  border: 0.4em solid rgb(248, 248, 247);
   padding: 1em;
   background: url(/assets/images/suga_juice.PNG) no-repeat bottom left;
   background-size: auto 55%;
@@ -106,8 +108,21 @@
 
 .navbar {
   background: transparent;
+  align-items: flex-start;
 }
 @media screen and (max-width: 480px) and (orientation:portrait) {
+  .sugawara-container {
+    border: 0.3em solid rgb(248, 248, 247);
+  }
+  .side-bar .j-title, .side-bar .j-suga {
+    font-size: 3vh;
+  }
+  .title h1 {
+    font-size: calc(min(15vw, 3.6em));
+  }
+}
+
+@media screen and (max-width: 769px) and (orientation: landscape) {
   .sugawara-container {
     border: 0.3em solid rgb(248, 248, 247);
   }
@@ -133,7 +148,7 @@
     margin: 0 10%;
   }
   .socials .i {
-    display: none;
+    
   }
 }
 
@@ -197,7 +212,7 @@
   }
   .sugawara-container {
     margin: 2em 2em 2em 0;
-    border: 0.75em solid rgb(248, 248, 247);
+    border: 0.55em solid rgb(248, 248, 247);
   }
 }
 
@@ -233,6 +248,12 @@
     color: #40291e;
   }
   .left-side {
+    .socials {
+      width: 5vw;
+      .i {
+        width: calc(min(2.2em,4vw));
+      }
+    }
     .note {
       font-size: 2.5em;
     }

@@ -34,7 +34,7 @@ html {
 @media screen and (max-width: 948px) {
   html {
     background-size: 45% auto;
-    padding: 5px;
+    padding: 0 5px;
   }
 }
 
@@ -62,7 +62,15 @@ h1 {
 }
 h1,h2,h3,h4,h5,h5 {
   font-family: $heading-font;
-  color: #363636;
+  color: #40291e;
+}
+
+h2, h3, h4, h5 {
+  margin-bottom: -13px;
+}
+
+strong {
+  color: #40291e;
 }
 
 .image {
@@ -223,4 +231,12 @@ h1,h2,h3,h4,h5,h5 {
 
 .control .button {
   margin: 0;
+}
+
+a {
+  color: #848c97;
+
+  &:visited {
+    color: #444;
+  }
 }

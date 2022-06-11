@@ -3,7 +3,7 @@ layout: page
 title: Questions
 permalink: /questions/
 order: 6
-script: /assets/js/tabs.js
+scripts: [/assets/js/tabs.js, /assets/js/form.js]
 ---
 
 <p>The Sugawara zine is a free, open-to-all zine dedicated to the best senpai on Karasuno’s team, Sugawara Koushi from the anime/manga series Haikyuu.</p>
@@ -41,7 +41,7 @@ script: /assets/js/tabs.js
 </div>
 <div class="field is-grouped">
   <div class="control">
-    <button onclick="alert('not yet implemented sorry :/');" class="button is-primary">Ask!</button>
+    <button onclick="alert('Your question has been sent to the mods. Please check back in a couple of days for a reply.');sendQuestion();" class="button is-primary">Ask!</button>
   </div>
 </div>
 

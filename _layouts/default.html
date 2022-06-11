@@ -16,7 +16,9 @@
     </main>
   </body>
   <script src="/assets/js/bulma.js"></script>
-  {% if page.script %}
-  <script src="{{ page.script }}"></script>
+  {% if page.scripts %}
+  {% for script in page.scripts %}
+    <script src="{{ script }}"></script>
+  {% endfor %}
   {% endif %}
 </html>
