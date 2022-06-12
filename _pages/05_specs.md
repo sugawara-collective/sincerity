@@ -13,4 +13,4 @@ order: 5
 - Writers contributing poems should be a 400 words maximum
 - Any Images should be 300dpi
 
-Please review our (guidelines)[/guidelines] for additional details on the type of content we will be accepting.
+Please review our [guidelines](/guidelines) for additional details on the type of content we will be accepting.
