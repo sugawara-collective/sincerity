@@ -43,7 +43,7 @@ Visual media submissions include fanart, merch, photographs, etc. Please take no
 ### Guidelines for literary submissions
 Literary submissions include fanfiction, poems, screenplays, etc. Please take note of the following guidelines for your output:
 
-1. In addition to the traditional fics, we will also be accepting poems from writer contributors. Poems should be 100-400 words, while fics can be anywhere between 500-3500 words.
+1. In addition to the traditional fics, we will also be accepting poems from writer contributors. Poems should be no more than 400 words, while fics can be anywhere between 500-3500 words.
 2. We welcome works set in the canonverse or in an alternate universe (AU).
 3. All works must fall strictly within the G to T ratings, following AO3 guidelines. (If you’re unsure, you can always ask our Mod Team. General rule, the work should not go past a soft make out.)
 4. Please make sure your work/s comply with our **General Guidelines**; otherwise it may result in automatic rejection of your entry.

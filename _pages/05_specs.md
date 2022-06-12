@@ -10,5 +10,5 @@ order: 5
 - There is up to 3 contributions per contributor across any type
 - Artists contributing work should be one single A4 or a double-spread artwork (can be an illustration or a comic up to 4 pages)
 - Writers contributing stories should be a 3.5k maximum piece
-- Writers contributing poems should be a 500 words maximum
+- Writers contributing poems should be a 400 words maximum
 - Any Images should be 300dpi
