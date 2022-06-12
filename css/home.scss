@@ -19,7 +19,10 @@
   grid-template-columns: 1fr 9fr;
 
   .note {
-    display: none;
+    display: inline;
+    font-size: 1.6em;
+    font-style: italic;
+    font-family: 'Arima Madurai';
   }
 }
 
@@ -62,14 +65,15 @@
   z-index: 1;
   text-align: center;
   display: grid;
-  grid-template-areas: "details"
-                       "title";
-  grid-template-rows: 2fr 3fr;
+  grid-template-areas: "title"
+                       "details";
+  grid-template-rows: 1fr 1fr;
   background: url(/assets/images/shadow_1.png) no-repeat top right;
   background-size: auto 55%;
 
   .title {
     grid-area: title;
+    align-self: flex-end;
 
     p {
       font-family: "Hi Melody", sans-serif;
@@ -110,24 +114,13 @@
   background: transparent;
   align-items: flex-start;
 }
-@media screen and (max-width: 480px) and (orientation:portrait) {
-  .sugawara-container {
-    border: 0.3em solid rgb(248, 248, 247);
-  }
-  .side-bar .j-title, .side-bar .j-suga {
-    font-size: 3vh;
-  }
-  .title h1 {
-    font-size: calc(min(15vw, 3.6em));
-  }
-}
 
 @media screen and (max-width: 769px) and (orientation: landscape) {
   .sugawara-container {
-    border: 0.3em solid rgb(248, 248, 247);
+    border: 0.35em solid rgb(248, 248, 247);
   }
   .side-bar .j-title, .side-bar .j-suga {
-    font-size: 3vh;
+    font-size: 1.8em;
   }
   .title h1 {
     font-size: calc(min(15vw, 3.6em));
@@ -143,9 +136,15 @@
       text-align: right;
     }
   }
+  .left-side {
+    grid-template-columns: 2em auto;
+  }
+  .title {
+    margin-left: 2em;
+    margin-right: 1em;
+  }
   .details p {
-    float: left !important;
-    margin: 0 10%;
+    margin: 0 2em;
   }
   .socials .i {
     
@@ -165,13 +164,14 @@
   }
   .details p {
     float: right;
-    margin: 0 10%;
+    margin: 0 3em;
   }
   .left-side {
     width: 100vw;
+    grid-template-columns: 3em auto;
   }
   .title, .details {
-    margin-left: 10%;
+    margin-left: 3em;
     margin-right: 1em;
   }
 }
@@ -195,9 +195,6 @@
     font-size: calc(min(5vh, 1.3em));
   }
   .right-side {
-    grid-template-areas: "title"
-                       "details";
-    grid-template-rows: 1fr 1fr;
     .title {
       align-self: flex-end;
     }
@@ -206,8 +203,6 @@
     .note {
       display: inline;
       font-size: 2em;
-      font-style: italic;
-      font-family: 'Arima Madurai';
     }
   }
   .sugawara-container {
@@ -244,10 +239,12 @@
     font-size: 1.3em;
   }
   .right-side {
+    width: 50vw;
     background: url(/assets/images/shadow_1.png) no-repeat top right;
     color: #40291e;
   }
   .left-side {
+    width: 50vw;
     .socials {
       width: 5vw;
       .i {
@@ -260,5 +257,36 @@
   }
   .sugawara-container {
     background-size: 70%;
+  }
+}
+
+@media screen and (max-width: 480px) and (orientation:portrait) {
+  .sugawara-container {
+    border: 0.3em solid rgb(248, 248, 247);
+    background-size: auto 50%;
+  }
+  .side-bar .j-title, .side-bar .j-suga {
+    font-size: 1.6em;
+  }
+  .left-side {
+    grid-template-columns: 2.2em auto;
+  }
+  .title {
+    align-self: flex-start !important;
+    margin-left: 2.2em;
+  }
+  .title h1 {
+    font-size: calc(min(15vw, 3.6em));
+  }
+  .details p {
+    float: left !important;
+  }
+  .note {
+    display: none !important;
+  }
+  .right-side {
+    grid-template-areas: "details"
+                       "title";
+    grid-template-rows: 2fr 3fr;
   }
 }
