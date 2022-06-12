@@ -1,0 +1,36 @@
+---
+layout: page
+title: Mods
+permalink: /mods/
+order: 2
+---
+<p>Meet our four amazing mods! In addition to sharing a love for Suga, they also share something else in common (and Mod Kay is not shy about it at all).</p>
+<div class="tile is-ancestor">
+  <div class="tile is-parent is-vertical">
+    {% for mod in site.data.mods %}
+    <article class="tile is-child box">
+      <h3 class="title">{{ mod.name }} ({{ mod.role }})</h3>
+      <div class="subtitle mod-intro">
+        <figure class="image is-square">
+          <img class="is-rounded" src="{{ mod.photo }}">
+        </figure>
+        <div class="blurb">
+          <p>{{ mod.blurb }}</p>
+        </div>
+      </div>
+      <div class="content">
+        <p>{{ mod.thought }}</p>
+        <p class="buttons">
+          {% for social in mod.socials %}
+          <a id="{{ social.type }}" class="button has-icon is-link is-primary" href="{{ social.url}}" target="_blank">
+            <span id="{{ social.type }}" class="icon"></span>
+            <span>{{ social.handle }}</span>
+          </a>
+          {% endfor %}
+        </p>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</div>
+<p>We are all excited to be a part of this project. If you have any questions/concerns, you may reach us through <a href="http://twitter.com/sugawarazine" target="_blank">Twitter</a> or on our <a href="/questions">FAQs</a> page.</p>

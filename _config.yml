@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Sugawara Anthology
+title: Sincerity: a Sugawara Anthology
+shorttitle: Sincerity Zine
 email: sugawaradigizine@gmail.com
 description: >  # the official website for a fan-made free digital zine dedicated to Sugawara Koushi.
 baseurl: "" # the subpath of your site, e.g. /blog

@@ -189,6 +189,21 @@
   }
 
 }
+.mod-intro {
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  grid-template-columns: 2fr 3fr;
+
+  .subtitle figure {
+    width: 20em;
+  }
+
+  .blurb, figure.image {
+    align-self: center;
+    font-family: "Hi Melody", Helvetica, sans-serif;
+  }
+}
 @media screen and (max-width: 769px) {
   .side-bar {
     align-items: unset;
@@ -322,5 +337,17 @@ table {
   .sugawara {
     display: block;
     grid-area: suga;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  .mod-intro {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .mod-intro {
+    grid-template-columns: 1fr;
   }
 }

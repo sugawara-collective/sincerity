@@ -70,6 +70,10 @@ h2, h3, h4, h5 {
   margin-bottom: -13px;
 }
 
+.box h3 {
+  margin: 0;
+}
+
 strong {
   color: #40291e;
 }
@@ -81,6 +85,12 @@ strong {
 .image img {
   display: block;
   height: auto;
+  width: 100%;
+}
+.image img.is-rounded {
+  border-radius: 9999px;
+}
+.image.is-fullwidth {
   width: 100%;
 }
 
@@ -111,6 +121,39 @@ strong {
   background-color: gray;
   border-color: transparent;
   color: #fff;
+}
+
+.button.has-icon {
+  display: flex;
+  align-items: center;
+}
+
+.button .icon {
+  height: 1.2em;
+  width: 1.2em;
+  margin-right: 0.5em;
+  filter: invert(1);
+  background-size: contain;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: -.3em;
+}
+
+.icon#twitter {
+  background-image: url(/assets/images/twitter.png);
+}
+
+.icon#tumblr {
+  background-image: url(/assets/images/tumblr.png);
+}
+
+.icon#ao3 {
+  background-image: url(/assets/images/ao3.png);
+}
+
+.icon#insta {
+  background-image: url(/assets/images/insta.png);
 }
 
 #tabs-with-content .tabs:not(:last-child) {
@@ -240,4 +283,126 @@ a {
   &:visited {
     color: #444;
   }
+}
+
+.tile {
+  align-items: stretch;
+  display: block;
+  flex-basis: 0;
+  flex-grow: 1;
+  flex-shrink: 1;
+  min-height: -webkit-min-content;
+  min-height: -moz-min-content;
+  min-height: min-content;
+}
+.tile.is-ancestor {
+  margin-left: -0.75rem;
+  margin-right: -0.75rem;
+  margin-top: -0.75rem;
+}
+.tile.is-ancestor:last-child {
+  margin-bottom: -0.75rem;
+}
+.tile.is-ancestor:not(:last-child) {
+  margin-bottom: 0.75rem;
+}
+.tile.is-child {
+  margin: 0 !important;
+}
+.tile.is-parent {
+  padding: 0.75rem;
+}
+.tile.is-vertical {
+  flex-direction: column;
+}
+.tile.is-vertical > .tile.is-child:not(:last-child) {
+  margin-bottom: 1.5rem !important;
+}
+@media screen and (min-width: 769px), print {
+  .tile:not(.is-child) {
+    display: flex;
+  }
+  .tile.is-1 {
+    flex: none;
+    width: 8.33333%;
+  }
+  .tile.is-2 {
+    flex: none;
+    width: 16.66667%;
+  }
+  .tile.is-3 {
+    flex: none;
+    width: 25%;
+  }
+  .tile.is-4 {
+    flex: none;
+    width: 33.33333%;
+  }
+  .tile.is-5 {
+    flex: none;
+    width: 41.66667%;
+  }
+  .tile.is-6 {
+    flex: none;
+    width: 50%;
+  }
+  .tile.is-7 {
+    flex: none;
+    width: 58.33333%;
+  }
+  .tile.is-8 {
+    flex: none;
+    width: 66.66667%;
+  }
+  .tile.is-9 {
+    flex: none;
+    width: 75%;
+  }
+  .tile.is-10 {
+    flex: none;
+    width: 83.33333%;
+  }
+  .tile.is-11 {
+    flex: none;
+    width: 91.66667%;
+  }
+  .tile.is-12 {
+    flex: none;
+    width: 100%;
+  }
+}
+.box {
+  background-color: #fff;
+  border-radius: 6px;
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1),
+    0 0 0 1px rgba(10, 10, 10, 0.02);
+  color: #191919;
+  display: block;
+  padding: 1.25rem;
+}
+a.box:focus,
+a.box:hover {
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0 0 1px #D05353;
+}
+a.box:active {
+  box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.2), 0 0 0 1px #D05353;
+}
+
+.buttons {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.buttons .button {
+  margin-bottom: 0.5rem;
+}
+.buttons .button:not(:last-child):not(.is-fullwidth) {
+  margin-right: 0.5rem;
+}
+.buttons:last-child {
+  margin-bottom: -0.5rem;
+}
+.buttons:not(:last-child) {
+  margin-bottom: 1rem;
 }
