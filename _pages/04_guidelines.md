@@ -32,7 +32,7 @@ Visual media submissions include fanart, merch, photographs, etc. Please take no
     - 300dpi
     - In RGB format
     - In .png or .jpg
-2. For page artists, one page would be A5 size. A full spread (two pages) would be A4 size in landscape orientation. 
+2. For page artists, one page would be A4 size. A full spread (two pages) would be A4 size in landscape orientation. 
 3. For merch artists, feel free to follow any sizes/dimensions that suit your digital merch outputs, but kindly adapt the following specifications
 4. We will accept outputs in monochrome (black and white), flat color, and full color/full render.
 5. We will accept traditional artwork as long as it is scanned in high quality
