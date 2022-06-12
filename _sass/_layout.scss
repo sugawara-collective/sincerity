@@ -338,16 +338,25 @@ table {
     display: block;
     grid-area: suga;
   }
+
 }
+
 
 @media screen and (max-width: 980px) {
   .mod-intro {
     grid-template-columns: 1fr 1fr;
+  }
+  .buttons .button {
+    margin-top: 0;
+    flex-grow: 1;
+    width: 100%;
+    margin-right: 0 !important;
   }
 }
 
 @media screen and (max-width: 480px) {
   .mod-intro {
     grid-template-columns: 1fr;
+    text-align: center;
   }
 }
