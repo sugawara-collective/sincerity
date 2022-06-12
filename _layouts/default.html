@@ -6,6 +6,7 @@
     {% if page.home != true or page.title == 'Test' %}
     {% include nav.html %}
     {% endif %}
+    <div id="sakura-span" class="page"></div>
     {% include header.html %}
     <main class="page-main">
       <article class="main-content container">{{ content }}</article>
@@ -21,4 +22,8 @@
     <script src="{{ script }}"></script>
   {% endfor %}
   {% endif %}
+  <script src="/assets/js/sakura.js"></script>
+  <script>
+    var sakura = new Sakura('#sakura-span');
+  </script>
 </html>

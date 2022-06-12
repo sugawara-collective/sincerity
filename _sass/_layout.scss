@@ -8,6 +8,7 @@
   min-height: 4rem;
   overflow: hidden;
   position: relative;
+  z-index: 99;
 
   h1 {
     font-size: xxx-large;
@@ -46,7 +47,7 @@
   background: transparent;
   min-height: 3.25rem;
   position: relative;
-  z-index: 30;
+  z-index: 99;
   text-transform: uppercase;
   font-family: "Alegreya", serif !important;
 }
@@ -137,6 +138,7 @@
   display: grid;
   grid-template-columns: 10% 90%;
   grid-template-areas: "side content";
+  z-index: 99;
 }
 
 .sugawara {
@@ -149,7 +151,9 @@
 
 .main-content {
   grid-area: content;
-  margin: 0 1em;
+  padding: 0 1.8em;
+  z-index: 99;
+  background: rgba(175, 187, 203, .4);
 }
 
 .footer {
@@ -193,7 +197,7 @@
 
 @media screen and (min-width: 769px) {
   .container {
-    padding: .5rem;
+    padding: 0 1.2rem;
   }
   .page-title-container {
     padding-left: 0;
@@ -281,13 +285,13 @@
 }
 
 .main-content {
-  padding-bottom: 60px;
+  margin-bottom: 60px;
 }
 
 table {
   border-collapse: collapse;
   tr {
-    padding: .6em 0;
+    // padding: .6em 0;
     padding-right: 1em;
     vertical-align: top;
   }
@@ -297,6 +301,7 @@ table {
   }
   td {
     width: 50%;
+    padding: .5em;
   }
   td:first-child {
     width: 40%;
