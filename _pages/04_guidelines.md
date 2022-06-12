@@ -23,7 +23,8 @@ In addition to the usual zine media of fanart and fanfiction, we will also be ac
 11. All work submitted must be their own creation. Submitting others’ works is prohibited. Using others' works such as songs or photos are only allowed for the playlists.
 12. Collaborative works are allowed, provided that you and your collaborator/s are all signed up for the event.
 13. Contributors can submit up to **THREE (3)** piece(s) across any content type to the zine. (For example, a fic, playlist, and coloring page OR two fics and a recipe both count as a contributors 3 fanworks and they would not be allowed to submit another piece.)
-14. All work created for the fan collection can be published two months after the collection release date.
+14. Works must be new and unpublished. During the creation period, you are more than welcome to share very small snippets and sneak peaks, but you may not preview the entire piece. 
+15. All work created for the fan collection can be published on the platforms of your choice **TWO (2) months** after the collection release date.
 
 
 

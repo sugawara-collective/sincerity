@@ -12,3 +12,5 @@ order: 5
 - Writers contributing stories should be a 3.5k maximum piece
 - Writers contributing poems should be a 400 words maximum
 - Any Images should be 300dpi
+
+Please review our (guidelines)[/guidelines] for additional details on the type of content we will be accepting.
