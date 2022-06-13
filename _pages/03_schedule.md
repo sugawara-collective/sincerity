@@ -4,7 +4,9 @@ title: Schedule
 permalink: /schedule/
 order: 3
 ---
-Sign-ups are not just for contributors, but also beta readers, cheerleaders, and supporters. Additionally, there will be additional rounds of sign-ups at each soft check-in Please note the following schedule is subject to changes.
+Sign-ups are not just for contributors, but also beta readers, cheerleaders, and supporters, and there will be additional rounds of sign-ups at each soft check-in.
+
+Please note the following schedule is subject to changes.
 
 Current Phase: **Pre-Creation**
 
