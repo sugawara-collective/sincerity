@@ -10,24 +10,23 @@ order: 2
     {% for mod in site.data.mods %}
     <article class="tile is-child box">
       <h3 class="title">{{ mod.name }} ({{ mod.role }})</h3>
-      <div class="subtitle mod-intro">
-        <figure class="image is-square">
-          <img class="is-rounded" src="{{ mod.photo }}">
-        </figure>
-        <div class="blurb">
+      <div class="mod-intro">
+        <div class="mod-photo">
+          <figure class="image is-square">
+            <img class="is-rounded" src="{{ mod.photo }}">
+          </figure>
+        </div>
+        <div class="buttons mod-socials">
+            {% for social in mod.socials %}
+            <a id="{{ social.type }}" class="button is-fullwidth has-icon is-link is-primary" href="{{ social.url}}" target="_blank">
+              <span id="{{ social.type }}" class="icon"></span>
+              <span>{{ social.handle }}</span>
+            </a>
+            {% endfor %}
+        </div>
+        <div class="mod-blurb content">
           <p>{{ mod.blurb }}</p>
         </div>
-      </div>
-      <div class="content">
-        <p>{{ mod.thought }}</p>
-        <p class="buttons">
-          {% for social in mod.socials %}
-          <a id="{{ social.type }}" class="button has-icon is-link is-primary" href="{{ social.url}}" target="_blank">
-            <span id="{{ social.type }}" class="icon"></span>
-            <span>{{ social.handle }}</span>
-          </a>
-          {% endfor %}
-        </p>
       </div>
     </article>
     {% endfor %}

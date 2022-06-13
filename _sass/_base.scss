@@ -140,6 +140,11 @@ strong {
   margin-left: -.3em;
 }
 
+.button.is-fullwidth {
+  display: flex;
+  width: 100%;
+}
+
 .icon#twitter {
   background-image: url(/assets/images/twitter.png);
 }
