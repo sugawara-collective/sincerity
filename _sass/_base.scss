@@ -48,6 +48,13 @@ body {
 a {
   text-decoration: none;
 }
+.page#sakura-span {
+  overflow: hidden;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  height: -webkit-fill-available;
+}
 
 .j-suga {
     writing-mode: vertical-lr;
