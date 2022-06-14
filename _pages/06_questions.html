@@ -25,6 +25,10 @@ scripts: [/assets/js/tabs.js, /assets/js/form.js]
       <p><strong>Any other questions? Ask us below!</strong> Our replies can be found under the "Other Answers" tab of this page.</p>
     </section>
     <section class="tab-content">
+      {% for q in site.data.questions %}
+      <p><strong>{{ q.question }}{% if q.name %} – {{ q.name }}{% endif %}</strong>
+        <br/>{{ q.answer }}</p>
+      {% endfor %}
       <p><strong>Didn't find your question?</strong> Go ahead and ask away!</p>
     </section>
   </div>
