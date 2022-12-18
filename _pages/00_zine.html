@@ -1,0 +1,16 @@
+---
+layout: page
+title: Read Here!
+permalink: /2022/
+order: 0
+exclude: true
+---
+<p>Lovely content... # fics, # art, # and more.</p>
+
+{% for post in site.posts %} 
+<a class="navbar-item {% if post.title == page.title %}current{% endif %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+{% endfor %}
+
+{% for post in site.collection.posts %} 
+<a class="navbar-item {% if post.title == page.title %}current{% endif %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+{% endfor %}

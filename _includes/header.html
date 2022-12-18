@@ -10,7 +10,11 @@
 <header class="header page-header">
   <span></span>
   <div class="page-title-container">
+    {% if page.title != 'Read Here!' %}
     <h1>{{ page.title }}</h1>
+    {% else %}
+    <h1>Sugawara Zine 2022</h1>
+    {% endif %}
   </div>
 </header>
 {% endif %}

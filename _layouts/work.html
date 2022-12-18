@@ -3,21 +3,22 @@
   {% include head.html %}
 
   <body>
+    {% if page.home != true or page.title == 'Test' %}
     {% include nav.html %}
-    <main>
-      <div class="work-header">
-        <h2>{{ page.title }}</h2>
+    {% endif %}
+    <header class="header page-header">
+      <span></span>
+      <div class="page-title-container">
+        <h1>{{ page.title }}<br/><span>By: {{ page.creator }}</span></h1>
+        <div>{{ page.relationship }}</div>
       </div>
-      <div class="work-content">
-        <article class="main-content container">
-          {{ content }}
-        </article>
-      </div>
+    </header>
+    <main class="page-main work-content">
+      <article class="main-content container">{{ content }}</article>
       {% include footer.html %}
     </main>
   </body>
   <script src="/assets/js/bulma.js"></script>
-  <script src="/assets/js/sakura.js"></script>
   {% if page.scripts %}
   {% for script in page.scripts %}
     <script src="{{ script }}"></script>

@@ -1,7 +1,7 @@
 ---
 layout: download
 title: Download
-permalink: /download/
+permalink: /old-download/
 exclude: true
 ---
 ## Testing Combining PDFs
