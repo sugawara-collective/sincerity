@@ -43,6 +43,28 @@
   font-weight: 200;
   margin: 0;
 }
+
+.work-title {
+  h1 {
+    margin-bottom: 0;
+  }
+  h2 {
+    margin-top: -1.2rem;
+    text-transform: uppercase;
+    margin-left: 1em;
+  }
+  .tags {
+    margin: 1.6rem 0;
+
+    .tag {
+      padding: .5em .8em;
+      border-radius: 1em;
+      float: left;
+      margin-bottom: 0.6em;
+      margin-right: 1em;
+    }
+  }
+}
 .navbar {
   background: transparent;
   min-height: 3.25rem;

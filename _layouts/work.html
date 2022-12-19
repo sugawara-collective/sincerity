@@ -8,9 +8,17 @@
     {% endif %}
     <header class="header page-header">
       <span></span>
-      <div class="page-title-container">
-        <h1>{{ page.title }}<br/><span>By: {{ page.creator }}</span></h1>
-        <div>{{ page.relationship }}</div>
+      <div class="page-title-container work-title">
+        <h1>{{ page.title }}</h1>
+        <h2>By: {{ page.creator }}</h2>
+        <div class="tags">
+          {% for relationship in page.relationships %}
+          <span class="tag relationship">{{ relationship }}</span>
+          {% endfor %}
+          {% for tag in page.tags %}
+          <span class="tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
       </div>
     </header>
     <main class="page-main work-content">
