@@ -9,7 +9,7 @@ scripts: [/assets/js/slides.js]
 <div class="fullscreen-image-slider">
   <div class="slides" role="region" aria-label="FullScreen Pictures" data-slide>
     <div class="slide-buttons">
-      <button class="slide-previous" onclick="prevSlide()">
+      <button class="slide-previous hide" onclick="prevSlide()">
         <span class="show-for-sr">Back</span>
       </button>
       <button class="slide-next" onclick="nextSlide()">
@@ -28,7 +28,7 @@ scripts: [/assets/js/slides.js]
       </li>
     </ul>
     <div class="slide-buttons">
-      <button class="slide-previous" onclick="prevSlide()">
+      <button class="slide-previous hide" onclick="prevSlide()">
         <span class="show-for-sr">Back</span>
       </button>
       <button class="slide-next" onclick="nextSlide()">
