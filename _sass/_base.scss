@@ -31,6 +31,10 @@ html {
   background-size: 28% auto;
 }
 
+.hide {
+  display: none;
+}
+
 @media screen and (max-width: 948px) {
   html {
     background-size: 45% auto;

@@ -1,0 +1,43 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+.visual {
+  background-size: cover;
+}
+
+#comic_pep_1 {
+  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1054236552718458960/comic_pep_1.png);
+}
+
+#comic_pep_2 {
+  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1054236553578303598/comic_pep_2.png);
+}
+
+#comic_pep_3 {
+  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1054236553104338984/comic_pep_3.png);
+}
+
+.fullscreen-image-slider {
+  .slide-container {
+    padding: 0;
+  }
+
+  .visual {
+    width: 100%;
+  }
+  .slide {
+    list-style: none;
+    display: none;
+
+    &.is-active {
+      display: block;
+    }
+  }
+}
+.slide-buttons {
+  margin-top: 1rem;
+  min-height: 1.2rem;
+  .slide-next {
+    float: right;
+  }
+}

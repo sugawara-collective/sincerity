@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-
+  <link rel="stylesheet" href="{{ "/css/works.css" | prepend: site.baseurl }}">
   <body>
     {% if page.home != true or page.title == 'Test' %}
     {% include nav.html %}
