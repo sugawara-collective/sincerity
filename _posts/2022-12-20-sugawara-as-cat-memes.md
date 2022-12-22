@@ -1,14 +1,12 @@
 ---
 layout: work
-title: Greek God AU
+title: Sugawara as Iconic Cat Memes
 show: hover
-image: comic_hoku_1
-relationships: [ Oikawa Tooru/Sugawara Koushi]
-tags: [ Immortal x Mortal, Slight Angst ]
-creator: Hoku
-type: comic
-permalink: /2022/comic/:title
-scripts: [/assets/js/slides.js]
+image: sketch_graphixpassion1
+tags: [ ]
+creator: GraphixPassion
+type: sketches
+permalink: /2022/sketches/:title
 ---
 
 <div class="fullscreen-image-slider">
@@ -23,10 +21,10 @@ scripts: [/assets/js/slides.js]
     </div>
     <ul class="slide-container">
       <li data-slide=1 class="is-active slide">
-        <img class="visual" id="comic_hoku_1" src="/assets/images/watermark.png" alt="page1">
+        <img class="visual" id="sketch_graphixpassion1" src="/assets/images/watermark.png" alt="page1">
       </li>
       <li data-slide=2 class="slide">
-        <img class="visual" id="comic_hoku_2" src="/assets/images/watermark.png" alt="page2">
+        <img class="visual" id="sketch_graphixpassion" src="/assets/images/watermark.png" alt="page2">
       </li>
     </ul>
     <div class="slide-buttons">

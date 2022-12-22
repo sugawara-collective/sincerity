@@ -1,10 +1,8 @@
 ---
 layout: work
 title: Sugawara in a Suit
-show: none
+show: hover
 image: illustration_lycaonna2
-relationships: [ ]
-tags: [ ]
 creator: Lycaonna
 type: illustration
 permalink: /2022/illustration/:title

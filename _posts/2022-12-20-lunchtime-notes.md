@@ -1,10 +1,11 @@
 ---
 layout: work
-title: Royal AU
+title: Lunchtime Notes
 show: hover
-image: illustration_hoku
+image: illustration_evi
+relationships: [ Sawamura Daichi/Sugawara Koushi ]
 tags: [ ]
-creator: Hoku
+creator: Evi
 type: illustration
 permalink: /2022/illustration/:title
 ---
@@ -12,7 +13,7 @@ permalink: /2022/illustration/:title
   <div class="slides" role="region" aria-label="FullScreen Pictures" data-slide>
     <ul class="slide-container">
       <li data-slide=1 class="is-active slide">
-        <img class="visual" id="illustration_hoku" src="/assets/images/watermark.png" alt="page1">
+        <img class="visual" id="illustration_evi" src="/assets/images/watermark.png" alt="page1">
       </li>
     </ul>
   </div>
