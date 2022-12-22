@@ -7,6 +7,7 @@ tags: [ ]
 creator: GraphixPassion
 type: sketches
 permalink: /2022/sketches/:title
+scripts: [/assets/js/slides.js]
 ---
 
 <div class="fullscreen-image-slider">

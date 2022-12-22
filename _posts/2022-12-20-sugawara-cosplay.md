@@ -6,6 +6,7 @@ image: cosplay_ysay_1
 creator: Ysay
 type: cosplay
 permalink: /2022/cosplay/:title
+scripts: [/assets/js/slides.js]
 ---
 <div class="fullscreen-image-slider">
   <div class="slides" role="region" aria-label="FullScreen Pictures" data-slide>
