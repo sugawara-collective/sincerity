@@ -25,7 +25,7 @@ scripts: [/assets/js/slides.js]
         <img class="visual" id="sketch_graphixpassion1" src="/assets/images/watermark.png" alt="page1">
       </li>
       <li data-slide=2 class="slide">
-        <img class="visual" id="sketch_graphixpassion" src="/assets/images/watermark.png" alt="page2">
+        <img class="visual" id="sketch_graphixpassion2" src="/assets/images/watermark.png" alt="page2">
       </li>
     </ul>
     <div class="slide-buttons">
