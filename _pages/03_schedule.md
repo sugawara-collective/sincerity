@@ -8,7 +8,7 @@ Sign-ups are not just for contributors, but also beta readers, cheerleaders, and
 
 Please note the following schedule is subject to changes.
 
-Current Phase: **Production**
+Current Phase: **Release**
 
 |June 13 | Zine launch & announcement |
 |Jun 20–Jul 20 | All sign-ups open|
@@ -18,6 +18,7 @@ Current Phase: **Production**
 |September 22   | Soft check-in (suggested 50%)|
 |October 22   | Soft check-in (suggested 75%) |
 |November 22 |  Final submissions due|
-|**Nov 23–Dec 21** | Zine production|
-|December 22  | Zine available for download |
-|February 22  | Creators can post works|
+|Nov 23–Dec 21 | Zine production|
+|**December 22**  | Webzine is available on read |
+|**January 22**  | Zine is available to download |
+|**February 22**  | Creators can post works|
