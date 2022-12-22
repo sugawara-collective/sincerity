@@ -5,18 +5,6 @@
   background-size: cover;
 }
 
-#comic_pep_1 {
-  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1054236552718458960/comic_pep_1.png);
-}
-
-#comic_pep_2 {
-  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1054236553578303598/comic_pep_2.png);
-}
-
-#comic_pep_3 {
-  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1054236553104338984/comic_pep_3.png);
-}
-
 .fullscreen-image-slider {
   .slide-container {
     padding: 0;
@@ -40,4 +28,43 @@
   .slide-next {
     float: right;
   }
+}
+
+article {
+  padding-bottom: 1.6em !important;
+}
+
+#comic_pep_1 {
+  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1054236552718458960/comic_pep_1.png);
+}
+
+#comic_pep_2 {
+  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1054236553578303598/comic_pep_2.png);
+}
+
+#comic_pep_3 {
+  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1054236553104338984/comic_pep_3.png);
+}
+
+#illustration_mermmarie {
+  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1055303662601244763/illustration_mermmarie.png);
+}
+
+#comic_hoku_1 {
+  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1055307630647713852/comic_hoku_1.png);
+}
+
+#comic_hoku_2 {
+  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1055307631008428092/comic_hoku_2.png);
+}
+
+#illustration_hoku {
+  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1055309344318705724/illustration_hoku.png);
+}
+#illustration_lycaonna1 {
+  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1055311643631960124/illustration_lycaonna_1_frame.png);
+}
+
+#illustration_lycaonna2 {
+  background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1055311644009443419/illustration_lycaonna_2_background.png);
 }

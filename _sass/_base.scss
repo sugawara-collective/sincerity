@@ -430,7 +430,7 @@ a.box:active {
   .tag {
     background-color: #c6bfbc;
   }
-  .tag:first-child {
+  .relationship:nth-child(1) {
     font-weight:bold;
   }
   .relationship {

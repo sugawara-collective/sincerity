@@ -1,10 +1,12 @@
 ---
 layout: work
 title: All’s Fair in Love and WiFi
+show: show
 relationships: [Hanamaki Takahiro/Sugawara Koushi]
 tags: [Neighbor AU, Mild Language, Meet-Chaotic]
 creator: mimimortis
-permalink: /2022/literary/:title
+type: fanfiction
+permalink: /2022/fanfiction/:title
 ---
 Suga considered himself a patient and understanding person. After all, one had to be when they were a school teacher. But even the strongest soldiers had their limit and Suga’s new upstairs neighbor was testing his.
 

@@ -7,10 +7,15 @@ exclude: true
 ---
 <p>Lovely content... # fics, # art, # and more.</p>
 
-{% for post in site.posts %} 
-<a class="navbar-item {% if post.title == page.title %}current{% endif %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-{% endfor %}
-
-{% for post in site.collection.posts %} 
-<a class="navbar-item {% if post.title == page.title %}current{% endif %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-{% endfor %}
+<div class="works">
+  {% for post in site.posts %}
+  <div class="work-container">
+    <div class="dummy"></div>
+    <span class="work-type">{{ post.type }}</span>
+    <a class="work {{ post.show }}" {% if post.image %}id="{{ post.image }}"{% endif %} href="{{ post.url | prepend: site.baseurl }}">
+      <div class="work-title">{{ post.title }}</div>
+      <small class="credit">{{ post.creator}}</small>
+    </a>
+  </div> 
+  {% endfor %}
+</div>

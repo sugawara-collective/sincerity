@@ -22,7 +22,9 @@
       </div>
     </header>
     <main class="page-main work-content">
-      <article class="main-content container">{{ content }}</article>
+      <article class="main-content container">{{ content }}
+      {% if page.beta %}<strong>Beta'd by {{ page.beta }}</strong>{% endif %}
+      </article>
       {% include footer.html %}
     </main>
   </body>

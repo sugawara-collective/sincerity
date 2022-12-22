@@ -1,10 +1,13 @@
 ---
 layout: work
 title: Suga Dollars
-relationships: [Sugawara & Karasuno]
+show: hover
+image: comic_pep_1
 creator: Pep
-permalink: /2022/visual/:title
+type: comic
+permalink: /2022/comic/:title
 scripts: [/assets/js/slides.js]
+
 ---
 <div class="fullscreen-image-slider">
   <div class="slides" role="region" aria-label="FullScreen Pictures" data-slide>
