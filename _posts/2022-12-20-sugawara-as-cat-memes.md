@@ -14,10 +14,10 @@ scripts: [/assets/js/slides.js]
   <div class="slides" role="region" aria-label="FullScreen Pictures" data-slide>
     <div class="slide-buttons">
       <button class="slide-previous hide" onclick="prevSlide()">
-        <span class="show-for-sr">Back</span>
+        <span class="show-for-sr">← Back</span>
       </button>
       <button class="slide-next" onclick="nextSlide()">
-        <span class="show-for-sr">Next</span>
+        <span class="show-for-sr">Next →</span>
       </button>
     </div>
     <ul class="slide-container">
@@ -30,10 +30,10 @@ scripts: [/assets/js/slides.js]
     </ul>
     <div class="slide-buttons">
       <button class="slide-previous hide" onclick="prevSlide()">
-        <span class="show-for-sr">Back</span>
+        <span class="show-for-sr">← Back</span>
       </button>
       <button class="slide-next" onclick="nextSlide()">
-        <span class="show-for-sr">Next</span>
+        <span class="show-for-sr">Next →</span>
       </button>
     </div>
   </div>

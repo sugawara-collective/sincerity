@@ -34,6 +34,16 @@ article {
   padding-bottom: 1.6em !important;
 }
 
+.slide-buttons button {
+    background: transparent;
+    border: 0;
+    text-transform: uppercase;
+    font-family: "Arima Madurai",sans-serif;
+    color: #40291e;
+    font-weight: bolder;
+    font-size: 1.2em;
+}
+
 #comic_pep_1 {
   background-image: url(https://cdn.discordapp.com/attachments/1054236303111229466/1054236552718458960/comic_pep_1.png);
 }

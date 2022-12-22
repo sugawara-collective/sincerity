@@ -5,7 +5,7 @@ show: hover
 image: collab_zestpepperoni_sophie
 relationships: [ ]
 tags: [ ]
-creator: zestpepperoni & sophie
+creator:  sophie & zestpepperoni
 type: collaboration
 permalink: /2022/collaboration/:title
 ---

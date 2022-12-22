@@ -34,4 +34,11 @@
     <script src="{{ script }}"></script>
   {% endfor %}
   {% endif %}
+  <script>
+  document.querySelectorAll('.visual').forEach(item => {
+      item.addEventListener("contextmenu", function (e){
+        e.preventDefault();
+    }, false);
+});
+  </script>
 </html>
