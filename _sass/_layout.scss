@@ -427,11 +427,20 @@ table {
     font-weight: bold;
     display: none;
     font-size: 1.2em;
+    border-radius: 10px;
   }
 
   &.show {
     .work-title {
       display: inline;
+      background: rgba(175,187,203,.7);
+      color: #fefefe;
+    }
+    &:hover {
+      .work-title {
+        background: rgba(255,255,255,.5);
+        color: inherit;
+      }
     }
   }
 

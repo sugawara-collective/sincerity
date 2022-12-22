@@ -44,41 +44,41 @@ So he took a turn to the right, avoiding looking back. Else he would really give
 
 <p style="text-align:center">*</p>
 
-<i>Somehow it was unreal. It was neither pleasant nor scaring him but he couldn't believe that it was happening. Maybe he just dreamed and would wake up pretty soon, realising he had one year left.
+_Somehow it was unreal. It was neither pleasant nor scaring him but he couldn't believe that it was happening. Maybe he just dreamed and would wake up pretty soon, realising he had one year left._
 
-He knew it was coming. 
+_He knew it was coming._ 
 
-After coming back from the nationals it was a matter of time. Nothing that hit him out of nowhere. Yet it took his breath away. 
+_After coming back from the nationals it was a matter of time. Nothing that hit him out of nowhere. Yet it took his breath away._
 
-He tossed most of the balls into the wrong direction which made Tanaka shout at him at some point. "Suga-san! You can do better than that!” 
+_He tossed most of the balls into the wrong direction which made Tanaka shout at him at some point. "Suga-san! You can do better than that!”_
 
-“Sorry,” he said, waving his hand in an apology. 
+_“Sorry,” he said, waving his hand in an apology._
 
-“Come on.” Daichi gave his shoulder a hard slap. “Show our juniors that we are better than them.”
+_“Come on.” Daichi gave his shoulder a hard slap. “Show our juniors that we are better than them.”_
 
-Suga saw him flashing a grin.
+_Suga saw him flashing a grin._
 
-Didn’t Daichi feel the same? All the nostalgia hitting him? Remembering how everything started here? 
+_Didn’t Daichi feel the same? All the nostalgia hitting him? Remembering how everything started here?_
 
-Even Asahi was on top of his game today. Then one person he had thought would be crying during their last training. Instead Asahi was on a roll, doing one service ace after another. 
+_Even Asahi was on top of his game today. Then one person he had thought would be crying during their last training. Instead Asahi was on a roll, doing one service ace after another._
 
-He took a deep breath as it was Kageyama’s turn to serve. 
+_He took a deep breath as it was Kageyama’s turn to serve._
 
-He didn’t need to see how Daichi moved to receive the volley. He knew that he had their backs. Was the reliable captain till this very last minute. 
+_He didn’t need to see how Daichi moved to receive the volley. He knew that he had their backs. Was the reliable captain till this very last minute._
 
-As he heard him receive it, shouting “Suga!” he turned, touching the ball shortly, tossing it to Asahi.
+_As he heard him receive it, shouting “Suga!” he turned, touching the ball shortly, tossing it to Asahi._
 
-One more point and they would win. 
+_One more point and they would win._
 
-This was the last ball he would ever toss.
+_This was the last ball he would ever toss._
 
-He didn’t want this game to end. 
+_He didn’t want this game to end._
 
-He felt the first tear rolling down his face when Asahi hit through the block, the combined powers of Tsukishima, Hinata and Yamaguchi weren’t able to stop him.
+_He felt the first tear rolling down his face when Asahi hit through the block, the combined powers of Tsukishima, Hinata and Yamaguchi weren’t able to stop him._
 
-As he heard the whistle ending the game he sank to his knees, a flood of tears accompanying him.
+_As he heard the whistle ending the game he sank to his knees, a flood of tears accompanying him._
 
-That was his last game.</i>
+_That was his last game._
 
 <p style="text-align:center">*</p>
 
@@ -106,71 +106,71 @@ He had cried his fair share of tears months ago.
 
 <p style="text-align:center">*</p>
 
-<i>“Thank you for the game!” they shouted in unison as they bowed down.
+_“Thank you for the game!” they shouted in unison as they bowed down._
 
-He hadn’t stopped crying since the game ended. He hadn’t been able to. There was so much to say and little time left. 
+_He hadn’t stopped crying since the game ended. He hadn’t been able to. There was so much to say and little time left._
 
-His eyes wandered through the row of first and second years in front of him, lingering on each and everyone for a few seconds.
+_His eyes wandered through the row of first and second years in front of him, lingering on each and everyone for a few seconds._
 
-He saw Nishinoya crying ugly tears, Tanaka grabbing his shoulder so hard that his knuckles went white, while his face showed how hard it was to keep his own composure. Kinoshita and Narita were standing straight, waiting for one last speech by Daichi. Ennoshita wiped his arm over his face, trying to hide that he had shed a few tears.
+_He saw Nishinoya crying ugly tears, Tanaka grabbing his shoulder so hard that his knuckles went white, while his face showed how hard it was to keep his own composure. Kinoshita and Narita were standing straight, waiting for one last speech by Daichi. Ennoshita wiped his arm over his face, trying to hide that he had shed a few tears._
 
-Tsukishima didn’t move a muscle in his face, but Suga saw that he was also affected. It was hard to read him but by now he knew that it worked behind those glasses. Yamaguchi bit his lip, eyes tearing up. 
+_Tsukishima didn’t move a muscle in his face, but Suga saw that he was also affected. It was hard to read him but by now he knew that it worked behind those glasses. Yamaguchi bit his lip, eyes tearing up._
 
-Kageyama was nodding at him, a mutual understanding passing between them. Hinata was right beside him, his body trembling with excitement. 
+_Kageyama was nodding at him, a mutual understanding passing between them. Hinata was right beside him, his body trembling with excitement._
 
-How hard it must be for him to stand still, not ask for another match? He couldn’t imagine. 
+_How hard it must be for him to stand still, not ask for another match? He couldn’t imagine._
 
-He ended with looking at Yachi, who had stopped crying. 
+_He ended with looking at Yachi, who had stopped crying._
 
-She would do great. 
+_She would do great._
 
-They all would do great. 
+_They all would do great._
 
-But he wanted to keep watching, seeing how they strived further to the top, crushing their boundaries, setting new limits. 
+_But he wanted to keep watching, seeing how they strived further to the top, crushing their boundaries, setting new limits._
 
-What if he never left this building? Would he stay here forever? Was that possible?
+_What if he never left this building? Would he stay here forever? Was that possible?_
 
-Coach Ukai cleared his throat. 
+_Coach Ukai cleared his throat._
 
-“I think it’s always hard to say goodbye,” he started, rubbing the back of his head. “And maybe we don’t see this as a goodbye but more like a ‘see you soon’ because you’re always welcome here.” 
+_“I think it’s always hard to say goodbye,” he started, rubbing the back of his head. “And maybe we don’t see this as a goodbye but more like a ‘see you soon’ because you’re always welcome here.”_
 
-He nodded in their direction. 
+_He nodded in their direction._
 
-“But for now we have to part ways. This is the time you give the responsibility to someone else, the people who helped you to fulfil your dream to go to Tokyo. If you may start, Sawamura-san?” 
+_“But for now we have to part ways. This is the time you give the responsibility to someone else, the people who helped you to fulfil your dream to go to Tokyo. If you may start, Sawamura-san?”_
 
-Suga didn’t know how Daichi didn’t break down. He was crying his heart out and Daichi was the embodiment of a captain. As if nothing would shake him. 
+_Suga didn’t know how Daichi didn’t break down. He was crying his heart out and Daichi was the embodiment of a captain. As if nothing would shake him._
 
-“Ennoshita,” Daichi said. “I know you don’t think that you’re capable of being a captain because you ran away one time but I always believed in you. The team relies on you. They trust you. Nobody is able to stop Tanaka and Noya but you’ve always been the only one who was able to give guidance before the chaos started spreading around. And let’s not speak about our energetic first years.” 
+_“Ennoshita,” Daichi said. “I know you don’t think that you’re capable of being a captain because you ran away one time but I always believed in you. The team relies on you. They trust you. Nobody is able to stop Tanaka and Noya but you’ve always been the only one who was able to give guidance before the chaos started spreading around. And let’s not speak about our energetic first years.”_
 
-He winked at them. Tsukishima’s lips twitched while Hinata protested. Yamaguchi looked caught. Kageyama was carrying the same stoic expression as always.
+_He winked at them. Tsukishima’s lips twitched while Hinata protested. Yamaguchi looked caught. Kageyama was carrying the same stoic expression as always._
 
-Ennoshita stepped forward as Daichi handed him a jersey. A brand new jersey with the number one. “Make me proud,” he mouthed when he gave it to him. 
+_Ennoshita stepped forward as Daichi handed him a jersey. A brand new jersey with the number one. “Make me proud,” he mouthed when he gave it to him._
 
-Ennoshita turned around, looking at his teammates as they shouted congratulations. 
+_Ennoshita turned around, looking at his teammates as they shouted congratulations._ 
 
-Suga felt how Kiyoko and Asahi pushed him forward.
+_Suga felt how Kiyoko and Asahi pushed him forward._
 
-He stumbled shortly but then he stood right next to Daichi. 
+_He stumbled shortly but then he stood right next to Daichi._
 
-The last time he would act as his vice-captain. He coughed slightly to get the attention of the team that had started to throw around jokes.
+_The last time he would act as his vice-captain. He coughed slightly to get the attention of the team that had started to throw around jokes._
 
-He didn’t want to have it any other way. Seeing them smile and behave like idiots. A bunch of lovely idiots, he might add.
+_He didn’t want to have it any other way. Seeing them smile and behave like idiots. A bunch of lovely idiots, he might add._
 
-With a smile he started to speak, “Normally I would give my jersey number to the next vice-captain but I had a special request by Asahi.” Raised eyebrows and surprised sounds were the answer. “There’s only one person I want to be my successor. And he happens to be the next person in line to be the team’s ace.” 
+_With a smile he started to speak, “Normally I would give my jersey number to the next vice-captain but I had a special request by Asahi.” Raised eyebrows and surprised sounds were the answer. “There’s only one person I want to be my successor. And he happens to be the next person in line to be the team’s ace.”_
 
-He widened his smile as he saw Nishinoya dropping his jaw, getting the hint first. Tsukishima was already rolling his eyes. Hinata looked around confused. 
+_He widened his smile as he saw Nishinoya dropping his jaw, getting the hint first. Tsukishima was already rolling his eyes. Hinata looked around confused._
 
-“We had a long debate, trying to figure out who would be the best to help Ennoshita in his duties as a captain. And there was only one person I could think of,” he continued. “Tanaka, would you give me the honour?”
+_“We had a long debate, trying to figure out who would be the best to help Ennoshita in his duties as a captain. And there was only one person I could think of,” he continued. “Tanaka, would you give me the honour?”_
 
-The silence that followed was something that made Kiyoko chuckle, even Asahi snorted while Daichi laughed out loud. 
+_The silence that followed was something that made Kiyoko chuckle, even Asahi snorted while Daichi laughed out loud._
 
-“Me?” Tanaka asked, walking forward after an encouraging nudge in his side by Nishinoya and Kinoshita. 
+_“Me?” Tanaka asked, walking forward after an encouraging nudge in his side by Nishinoya and Kinoshita._
 
-“Yes,” Suga said, giving him the jersey. “Without you the team wouldn’t be whole. Your mental strength is amazing. You connect to the people in a different way. And we all think that only you can fulfil the role of an ace and vice-captain.”
+_“Yes,” Suga said, giving him the jersey. “Without you the team wouldn’t be whole. Your mental strength is amazing. You connect to the people in a different way. And we all think that only you can fulfil the role of an ace and vice-captain.”_
 
-Tanaka pulled him into a tight hug that pushed the air out of his lungs. 
+_Tanaka pulled him into a tight hug that pushed the air out of his lungs._
 
-Oh, would he miss his team.</i>
+_Oh, would he miss his team._
 
 <p style="text-align:center">*</p>
 

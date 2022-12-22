@@ -24,8 +24,8 @@ Then came the music, and the shuffle of multiple pairs of feet.
 
 Suga snapped, but he didn't yell at them. Instead, he stormed to his room, opened his laptop, and changed his WiFi name. He didn’t check it again until an hour later when he was getting out of the bath. 
 
-        Apt 609, you’re loud as fuck!
-        Apt??? Say it to my face, coward
+**Apt 609, you’re loud as fuck!**<br/>
+**Apt??? Say it to my face, coward**
 
 Infuriating. Who were they to get angry at him when it was them making all the noise? This wasn’t over by a long shot, and Suga was determined to have the last word. So, he logged back in to change his wifi name again.
 
@@ -33,24 +33,24 @@ Every clack of his keyboard echoed throughout his apartment, embodying his anger
 
 Suga was going to have to be a little more creative to say all he wanted in such a limited space.
 
-        UWouldntHearMeOverUrCrapMusic
-        Crap?WtfUAMusicSnobOrSomething
+**UWouldntHearMeOverUrCrapMusic**<br/>
+**Crap?WtfUAMusicSnobOrSomething**
 
 Rude. Suga liked lots of music, but what his neighbor listened to could only be described as screeches and clanks. If there was any musicality within it, it was indiscernible to Suga. In fact, Suga was certain that anyone (except his neighbor) would agree with him, and he was determined to make that known.
 
-        No, I just have ears
-        GetRidOfThose&MyNoiseWontBotherU
+**No, I just have ears**<br/>
+**GetRidOfThose&MyNoiseWontBotherU**
 
 Absolutely annoying. For three years, Suga had never had any problem with his neighbors. Sure, there were occasional times when someone was a bit loud, but it never lasted more than a day or two. It was the typical living in an apartment building woes, nothing more and nothing less.
 
 But this neighbor… This neighbor did things just to be obnoxious. Which included them starting to blast their music. It wasn’t their usual, and the act felt purposeful. So he opened his laptop to send a message only to find one waiting for him. 
 
-        How about this for music choice?
+**How about this for music choice?**
 
 Suga decided not to reply. Instead, he changed his WiFi back to the random string that blended in with all the rest. To get the last word, he was going to say nothing. He grinned to himself, thinking about how much it will drive his neighbor insane to not know what Suga thought of the new music—which was much improved.
 
 
-
+<p><br/><br/><br/></p>
 
 
 Makki hung his keys on the small hook. Leaving his shoes by the door, he entered his apartment to find his friends all on his couch, surrounding his laptop.
@@ -63,8 +63,8 @@ He left them for a moment to grab a few bowls and napkins, and when he returned,
 
 They flipped his laptop around.
 
-        Baby come back! ( づ￣ ³￣ )づ
-        Who are you calling baby?
+**Baby come back! ( づ￣ ³￣ )づ**,br/>
+**Who are you calling baby?**
 
 “That doesn’t sound like me at all. I would never beg,” Makki said, eyes on Oikawa. The handiwork was clearly his, but his response was just to shrug, unconcerned with what he had done.
 
@@ -74,7 +74,7 @@ Then came his disappointment when Makki’s answer was nothing, leading Oikawa t
 
 “Makki’s right,” Matsukawa said and grabbed the laptop and started typing away. Not long after, he showed them all the screen.
 
-        You my darling. I miss you!
+**You my darling. I miss you!**
 
 Makki sighed and snatched his laptop away from his friends; they had lost the privileges to change his WiFi name. He took it to the kitchen as he went to fetch them some drinks, logging in one more time to change the name again.
 
@@ -84,12 +84,12 @@ Eventually their conversation naturally shifted, and by the time Oikawa was help
 
 Until Oikawa squawked, and Makki pulled out his phone to check the nearby WiFi names.
 
-        Apt???AreYouThere?CanYouHearMe?
-        No, I got my ears removed…
+**Apt???AreYouThere?CanYouHearMe?**<br/>
+**No, I got my ears removed…**
 
 Makki was too late to keep Oikawa from replying. He hit enter right before Makki reached him.
 
-        Wait what????!!!! (* O *)
+**Wait what????!!!! (* O *)**
 
 “Would you stop? My neighbor is going to think I am dramatic,” Makki said. He took his laptop back, ordering Oikawa to finish making the popcorn.
 
@@ -97,13 +97,13 @@ Although he didn’t believe that his neighbor would take such drastic measures,
 
 His curiosity won. He was desperate to know.
 
-        You are lying right? 
+**You are lying right?**
 
 They watched the first movie, and Makki made sure to keep the volume up. It didn’t need to be that loud, but he wanted to get his neighbor to crack. 
 
 With still no reply, Makki has to try again. 
 
-        Apt??? Please tell me ur lying!
+**Apt??? Please tell me ur lying!**
 
 “You know, if you want your neighbor to respond, you have to do something that will make them more annoyed than usual,” Matsukawa told him as he waved his phone, noting how he knew Makki had been changing his WiFi name.
 
@@ -122,7 +122,7 @@ That didn’t stop them. Once Oikawa thought it would be a fun idea, he was alre
 They fell flat on their asses laughing. Makki had forgotten why they were doing any of this until Oikawa brought his phone up to Makki’s face and excitedly shouted, “They replied!” 
 
 
-
+<p><br/><br/><br/></p>
 
 
 Suga had had enough. There was only so much he could ignore. He knew his upstairs neighbor wanted to get a rise out of him, and he wanted to say he could resist giving them that satisfaction. After all, he felt like he was winning. They kept changing their WiFi name, desperate for him to reply.
@@ -133,8 +133,8 @@ There were only two choices. Wait for his neighbor to tire or cave and reply. Hi
 
 He grabbed his laptop, not even thinking about how his answer would give away his location until he saw the neighbor reply.
 
-        WTF RU teaching a tap class 609?
-        IKnewIt!UCanStillHearMe...509??
+**WTF RU teaching a tap class 609?**<br/>
+**IKnewIt!UCanStillHearMe...509??**
 
 Shit. There went the bit of anonymity that this mode of communication had given him. They were going to be meeting, which would either end with them laughing or with Suga getting his ass kicked.
 
@@ -142,8 +142,8 @@ It was best to keep up his front. He wasn’t afraid of his neighbor, and he was
 
 Suga dared them to come check.
 
-        Fuck around and find out
-        Challenge accepted _へ__(‾◡◝ )
+**Fuck around and find out**<br/>
+**Challenge accepted _へ__(‾◡◝ )**
 
 Not five minutes later, there came a knock on Suga’s apartment door.
 
@@ -183,6 +183,6 @@ Suga laughed and closed his door. He stayed with his ear against it, listening u
 
 After a few minutes of replaying everything in his head, Suga checked the WiFi to find a message waiting for him. Makki might have acted flustered outside the door, but behind the safety of his own door, he was back to the cocky, annoying neighbor self—that he now found endearing.
 
-        Friday 7pm. You. Me. Dinner.
+**Friday 7pm. You. Me. Dinner.**
 
 Suga smiled at the message. He would reply to it later. For now, though, he would let Makki sweat a little.
