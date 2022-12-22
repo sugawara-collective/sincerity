@@ -23,7 +23,7 @@ scripts: [/assets/js/slides.js]
     </div>
     <ul class="slide-container">
       <li data-slide=1 class="is-active slide">
-        <img class="visual" id="photography_daleydonuts_1" src="/assets/images/watermark.png" alt="page1">
+        <img class="visual" id="photography_daleydonuts_1" src="/assets/images/watermark-landscape.png" alt="page1">
       </li>
       <li data-slide=2 class="slide">
         <img class="visual" id="photography_daleydonuts_2" src="/assets/images/watermark-landscape.png" alt="page2">
