@@ -10,7 +10,7 @@ exclude: true
 <p>A digital version of the zine with the digital merch (and maybe more surprises!) will be available to download January 22nd, 2022.</p>
 
 <div class="works">
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
   <div class="work-container">
     <div class="dummy"></div>
     <span class="work-type">{{ post.type }}</span>
