@@ -20,5 +20,5 @@ Current Phase: **Release**
 |November 22 |  Final submissions due|
 |Nov 23–Dec 21 | Zine production|
 |**December 22**  | Webzine is available |
-|**January 22**  | Zine is available to download |
+|**February 2**  | Zine is available to download |
 |**February 22**  | Creators can post works|
