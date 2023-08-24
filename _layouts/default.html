@@ -11,18 +11,18 @@
     <main class="page-main">
       <article class="main-content container">{{ content }}</article>
       <div class="sugawara image">
-        <img src="/assets/images/suga_juice.PNG" />
+        <img src="/sincerity/assets/images/suga_juice.PNG" />
       </div>
       {% include footer.html %}
     </main>
   </body>
-  <script src="/assets/js/bulma.js"></script>
+  <script src="/sincerity/assets/js/bulma.js"></script>
   {% if page.scripts %}
   {% for script in page.scripts %}
     <script src="{{ script }}"></script>
   {% endfor %}
   {% endif %}
-  <script src="/assets/js/sakura.js"></script>
+  <script src="/sincerity/assets/js/sakura.js"></script>
   <script>
     var sakura = new Sakura('#sakura-span');
   </script>
