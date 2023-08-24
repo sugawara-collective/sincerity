@@ -22,7 +22,7 @@ title: Sincerity – a Sugawara Anthology
 email: sugawaradigizine@gmail.com
 description: >  # the official website for a fan-made free digital zine dedicated to Sugawara Koushi.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "sugawara-zine.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "sugawara-collective.github.io/sincerity" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sugawarazine
 github_username:  sugawara-zine
 
